@@ -2,9 +2,8 @@
 
 #### Python-developer from Moscow, Russia
 
-**Stack**
-
--- Python 3 -- OOP -- GIT -- SQL (PostgreSQL) -- Pytest -- Django -- Django Rest Framework -- ORM (Django, SQLAlchemy)
+**Stack**S
+-- Python 3 -- OOP -- GIT -- SQL (PostgreSQL) -- Pytest -- Django -- Django Rest Framework -- ORM (Django, SQLAlchemy) -- HTML -- CSS -- JavaScript
 
 **Foreign languages**
 - English C1
@@ -14,9 +13,12 @@
 - [Course project «VKinder»](https://github.com/saunindm/VKinder)
   
 **Certificates**
-- [English for programmers](https://github.com/saunindm/DmitrySaunin/blob/main/cert/certificate_english.pdf)
-- [Basics of Python](https://github.com/saunindm/DmitrySaunin/blob/main/cert/certificate_base_python.pdf)
-- [Git](https://github.com/saunindm/DmitrySaunin/blob/main/cert/certificate_git.pdf)
-- [Databases for python-developers](https://github.com/saunindm/DmitrySaunin/blob/main/cert/certificate_database.pdf)
-- [Advance Concepts of Python](https://github.com/saunindm/DmitrySaunin/blob/main/cert/certificate_adv_python.pdf)
-- [Django - web applications development](https://github.com/saunindm/DmitrySaunin/blob/main/cert/certificate_django.pdf)
+- [Английский для программистов](https://github.com/saunindm/DmitrySaunin/blob/main/cert/certificate_english.pdf)
+- [Основы языка программирования Python](https://github.com/saunindm/DmitrySaunin/blob/main/cert/certificate_base_python.pdf)
+- [Git — система контроля версий](https://github.com/saunindm/DmitrySaunin/blob/main/cert/certificate_git.pdf)
+- [Базы данных для python-разработчиков](https://github.com/saunindm/DmitrySaunin/blob/main/cert/certificate_database.pdf)
+- [Профессиональная работа с Python](https://github.com/saunindm/DmitrySaunin/blob/main/cert/certificate_adv_python.pdf)
+- [Django: создание функциональных веб-приложений](https://github.com/saunindm/DmitrySaunin/blob/main/cert/certificate_django.pdf)
+- [HTML и CSS: основы веб-верстки](https://github.com/saunindm/DmitrySaunin/blob/main/cert/certificate_base_html_css.pdf)
+- [JavaScript: основы работы в браузере](https://github.com/saunindm/DmitrySaunin/blob/main/cert/certificate_base_javascript.pdf)
+- [JavaScript: углубленный курс веб-разработки](https://github.com/saunindm/DmitrySaunin/blob/main/cert/certificate_adv_javascript.pdf)
